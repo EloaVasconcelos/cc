@@ -89,7 +89,7 @@ runApp(
    PAO COM MORTADELA 
    PASTEL 
    
-   CACHORRO QUENTE
+   Hamburguer 
    PAO NA CHAPA 
    
    BIFE A PAULISTA 
